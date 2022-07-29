@@ -19,7 +19,7 @@ DEUTSCH
 FRANCAIS:
 - 👋 Hi, je suis Lijukay, un programmeur en herbe. (Oui, je ne suis pas programmeur. Je peux juste faire des apps simple avec Java. Mais j'apprends)
 - 👀 Je suis interessé de Java (en ce moment).
-- 🌱  En ce moment, j'japprends Java.
+- 🌱  En ce moment, j'apprends Java.
 - 📫 Comment me contacter? Je pense qu'il n'y a pas d'interesse de me contacter. Mais si vous veux encore me contacter:
 - Telegram: https://t.me/lijukay
 - Discord:  Lijukay#9441
