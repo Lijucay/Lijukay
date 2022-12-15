@@ -26,4 +26,5 @@ FRANCAIS:
 - ✨ Je me concentre sur le design, mais je m'occupe aussi de la fonctionnalité.
 
 
-![Lijukays's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijukay&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Lijukay&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijukay&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=false)
