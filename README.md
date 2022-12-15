@@ -24,3 +24,6 @@ FRANCAIS:
 - Telegram: https://t.me/lijukay
 - Discord:  Lijukay#9441
 - ✨ Je me concentre sur le design, mais je m'occupe aussi de la fonctionnalité.
+
+
+![Lijukays's GitHub stats](https://github-readme-stats.vercel.app/api?username=lijukay&show_icons=true)
