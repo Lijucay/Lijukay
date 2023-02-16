@@ -1,4 +1,8 @@
-Hello, I am Lijukay. Currently I am learning to program. I am using Java to create Android applications.
+Hello, I am Lijukay. I am a student at a highschool in Germany.
+I love languages, especially English and French (although I have probelems with vocabulary and grammar in both).
+Also I have a big love to Google's Material 3 theme and to quotable stuff.
+
+Feel free to have a look at my code ^^
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Lijukay&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=false)
