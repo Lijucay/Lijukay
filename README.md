@@ -26,7 +26,7 @@
 You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.keins@gmail.com). I will answer asap.
 
 <p align="center">
-<h3>Buy me a coffee:</h3>
+<center><h3>Buy me a coffee:</h3></center>
 </p>
 
 [![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/Lijukay)
