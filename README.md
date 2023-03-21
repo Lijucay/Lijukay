@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode)](https://skillicons.dev)
 
-<h3>Contact:</h3>
+<p style="text-align: center"> <h3>Contact:</h3></p>
 
 You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.keins@gmail.com). I will answer asap.
 
