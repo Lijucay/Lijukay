@@ -27,14 +27,10 @@
 
 <h3>Buy me a coffee:</h3>
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/Lijukay)
-
 <a href="https://www.paypal.me/Lijukay">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal"
   width="215"
   height="100"/>
 </a>
 
-#### Random shit:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijukay&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=false)
+<!--#### Random shit:-->
