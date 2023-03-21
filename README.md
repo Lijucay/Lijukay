@@ -21,12 +21,12 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode)](https://skillicons.dev)
 
 <p align="center">
-### Contact:
+<h2>Contact:</h2>
 </p>
 You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.keins@gmail.com). I will answer asap.
 
 <p align="center">
-### Buy me a coffee:
+<h2>Buy me a coffee:</h2>
 </p>
 
 [![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/Lijukay)
