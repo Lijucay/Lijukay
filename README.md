@@ -23,7 +23,7 @@
 - Contact me:
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lijukayy)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://https://www.instagram.com/licos_world/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/licos_world/)
 
 <h3>Buy me a coffee:</h3>
 
