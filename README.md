@@ -1,6 +1,7 @@
 #### About me:
 
-Hello, I am Lijukay.
+![](https://github.com/Lijukay/Lijukay/blob/main/header.png)
+
 I am an 18 year old student at a highschool in Germany.
 I love languages, especially English and French (although I have probelems with vocabulary and grammar in both).
 Also I have a big love to Google's Material 3 theme and to quotable stuff.
@@ -21,5 +22,3 @@ You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.ke
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijukay&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=false)
 
 <img alt="followers" src="https://img.shields.io/github/followers/Lijukay?label=Followers&style=social">
-
-<!--START_SECTION:activity-->
