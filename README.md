@@ -2,7 +2,8 @@
 
 ![](https://github.com/Lijukay/Lijukay/blob/main/header.png)
 
-I am an 18 year old student at a highschool in Germany.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F782BE&width=435&lines=18+years+old;From+Germany;App+Development)](https://git.io/typing-svg)
+
 I love languages, especially English and French (although I have probelems with vocabulary and grammar in both).
 Also I have a big love to Google's Material 3 theme and to quotable stuff.
 I am learning constantly by watching videos and asking developers for help.
