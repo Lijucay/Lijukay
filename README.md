@@ -1,6 +1,6 @@
 #### About me:
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=6EF77B&height=300&section=header&text=I%20am%20Lijukay&desc=Welcome%20to%20my%20profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=6EF77B&height=300&section=header&text=I%20am%20Lijukay&desc=Welcome%20to%20my%20profile&descAlignY=100&fontSize=90)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lijukay&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
