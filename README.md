@@ -7,9 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EF77B&width=435&lines=18+years+old;From+Germany;App+Development)](https://git.io/typing-svg)
 
 My life:
+
+<p align="center">
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
-
+</p>
 #### Contact:
 
 You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.keins@gmail.com). I will answer asap.
