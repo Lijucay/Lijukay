@@ -2,7 +2,7 @@
 
 ![](https://github.com/Lijukay/Lijukay/blob/main/header.png)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lijukay&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Lijukay/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lijukay&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EF77B&width=435&lines=18+years+old;From+Germany;App+Development)](https://git.io/typing-svg)
 
