@@ -2,7 +2,7 @@
 
 ![](https://github.com/Lijukay/Lijukay/blob/main/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F782BE&width=435&lines=18+years+old;From+Germany;App+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EF77B&width=435&lines=18+years+old;From+Germany;App+Development)](https://git.io/typing-svg)
 
 I love languages, especially English and French (although I have probelems with vocabulary and grammar in both).
 Also I have a big love to Google's Material 3 theme and to quotable stuff.
