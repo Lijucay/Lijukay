@@ -14,9 +14,10 @@ You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.ke
 
 #### Buy me a coffee:
 
-
 [![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/Lijukay)
 
 #### Random shit:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijukay&layout=compact&bg_color=ffffff00&text_color=888888&hide_border=true&hide_title=false)
+
+<img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social">
