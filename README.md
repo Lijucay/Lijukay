@@ -18,13 +18,16 @@
 
 - Enviroments I work(ed) with:
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode)](https://skillicons.dev)
 
-#### Contact:
-
+<p align="center">
+### Contact:
+</p>
 You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.keins@gmail.com). I will answer asap.
 
-#### Buy me a coffee:
+<p align="center">
+### Buy me a coffee:
+</p>
 
 [![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/Lijukay)
 
