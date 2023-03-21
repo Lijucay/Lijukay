@@ -8,6 +8,18 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lijukay&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
+- Knowledge (Limited)
+
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+- Interested in:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin)](https://skillicons.dev)
+
+- Enviroments I work(ed) with:
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea)](https://skillicons.dev)
+
 #### Contact:
 
 You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.keins@gmail.com). I will answer asap.
