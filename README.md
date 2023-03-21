@@ -27,7 +27,13 @@
 
 <h3>Buy me a coffee:</h3>
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png width=100 heigth=50)](https://www.paypal.me/Lijukay)
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/Lijukay)
+
+<a href="https://www.paypal.me/Lijukay">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal"
+  width="100"
+  height="100"/>
+</a>
 
 #### Random shit:
 
