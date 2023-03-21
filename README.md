@@ -22,13 +22,12 @@
 
 - Contact me:
 
-[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lijukay)
-
-You can easily write me on Telegram: (https://t.me/Lijukay) or per Mail (lico.keins@gmail.com). I will answer asap.
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lijukayy)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://https://www.instagram.com/licos_world/)
 
 <h3>Buy me a coffee:</h3>
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/Lijukay)
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png width=100 heigth=50)](https://www.paypal.me/Lijukay)
 
 #### Random shit:
 
