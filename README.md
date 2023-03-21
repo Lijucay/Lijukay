@@ -31,7 +31,7 @@
 
 <a href="https://www.paypal.me/Lijukay">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal"
-  width="200"
+  width="215"
   height="100"/>
 </a>
 
