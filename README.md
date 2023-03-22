@@ -14,7 +14,7 @@
 
 - Interested in:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,js)](https://skillicons.dev)
 
 - Enviroments I work(ed) with:
 
