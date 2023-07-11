@@ -35,7 +35,6 @@
 
 <h3>Random things</h3>
 
-Visit my website:
-https://lijukay.github.io/
+<p>Visit my website <a href="https://lijukay.github.io" target="_blank">here</a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijukay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
