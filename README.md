@@ -35,4 +35,14 @@
 
 <p>Visit my website <a href="https://lijukay.github.io" target="_blank">here</a></p>
 
+## Star History
+
+<a href="https://star-history.com/#Lijukay/Qwotable&Lijukay/HomeHarmony&Lijukay/lijukay.github.io&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Lijukay/Qwotable,Lijukay/HomeHarmony,Lijukay/lijukay.github.io&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Lijukay/Qwotable,Lijukay/HomeHarmony,Lijukay/lijukay.github.io&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Lijukay/Qwotable,Lijukay/HomeHarmony,Lijukay/lijukay.github.io&type=Date" />
+  </picture>
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijukay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
