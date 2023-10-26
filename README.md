@@ -9,7 +9,6 @@
 - Knowledge
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?=kotlin)]
 
 - Enviroments, I work(ed) with:
 
