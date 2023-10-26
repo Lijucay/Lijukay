@@ -14,14 +14,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,js)](https://skillicons.dev)
 
-- Enviroments I work(ed) with:
+- Enviroments, I work(ed) with:
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,pycharm)](https://skillicons.dev)
 
 - Contact me:
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lijukayy)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/licos_world/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_little.world/)
 
 <h3>Buy me a coffee:</h3>
 
