@@ -6,17 +6,14 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lijukay&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
-- Knowledge (Limited)
+- Knowledge
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-- Interested in:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?=kotlin)]
 
 - Enviroments, I work(ed) with:
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode)](https://skillicons.dev)
 
 - Contact me:
 
