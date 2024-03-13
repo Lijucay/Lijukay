@@ -19,13 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lijukayy)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lucas_little.world/)
 
-<h3>Buy me a coffee:</h3>
-
-<a href="https://www.paypal.me/Lijukay">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal"
-  width="215"
-  height="100"/>
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1VMB1F)
 
 <h3>Random things</h3>
 
