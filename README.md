@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6EF77B&height=300&section=header&text=I%20am%20Lijucay&desc=Welcome%20to%20my%20profile&descAlignY=70&fontSize=90)
 
-- Stats
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lijucay&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Jurredr/github-widgetbox)
 
 - Knowledge
