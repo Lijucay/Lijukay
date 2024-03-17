@@ -39,7 +39,7 @@ public class CurrentWork() {
 }
 ```
 
--My skill:
+- My skills:
 
 ```Kotlin
 class MySkills() {
