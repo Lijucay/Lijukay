@@ -39,7 +39,7 @@ public class CurrentWork() {
 }
 ```
 
-- My skills:
+## My skills:
 
 ```Kotlin
 class MySkills() {
@@ -60,7 +60,7 @@ enum class Level(val value: Int, val description: String) {
 
 ```
 
-- Enviroments, I work(ed) with:
+## Enviroments, I work(ed) with:
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,pycharm,visualstudio)](https://skillicons.dev)
 
