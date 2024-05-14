@@ -12,9 +12,9 @@ class Lijucay() {
     "Story-writing"
   )
   var favoriteSongs = listOf(
-    Pair("Lookalike", "Conan Gray"),
+    Pair("I Can Do It With a Broken Heart", "Taylor Swift"),
     Pair("What was I made for?", "Billie Eilish"),
-    Pair("Chammak Challo", "Akon")
+    Pair("My Boy Only Breaks His Favorite Toys", "Taylor Swift")
   )
 }
 ```
