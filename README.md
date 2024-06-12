@@ -2,7 +2,7 @@
 
 ```Kotlin
 class Lijucay() {
-  var age = 19
+  var age = 20
   val name = "Luca"
   val nationality = "German"
   var currentJob: String? = null
