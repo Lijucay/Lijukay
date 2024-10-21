@@ -29,10 +29,9 @@ public class CurrentWork() {
     ArrayList<Repositories> repos = new ArrayList();
 
     repos.add(Repository("Qwotable", "https://github.com/Lijucay/Qwotable"));
-
     repos.add(Repository("NoteHarmony", "https://github.com/Lijucay/NoteHarmony"));
-
-    repos.add(Repository("lijucay.github.io", "https://lijucay.github.io/"))
+    repos.add(Repository("lijucay.github.io", "https://lijucay.github.io/"));
+    repos.add(Repository("lijucay.github.io", "https://github.com/Lijucay/Damier"));
 
     return repos;
   }
