@@ -31,7 +31,7 @@ public class CurrentWork() {
     repos.add(Repository("Qwotable", "https://github.com/Lijucay/Qwotable"));
     repos.add(Repository("NoteHarmony", "https://github.com/Lijucay/NoteHarmony"));
     repos.add(Repository("lijucay.github.io", "https://lijucay.github.io/"));
-    repos.add(Repository("lijucay.github.io", "https://github.com/Lijucay/Damier"));
+    repos.add(Repository("Damier", "https://github.com/Lijucay/Damier"));
 
     return repos;
   }
