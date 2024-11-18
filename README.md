@@ -63,4 +63,7 @@ enum class Level(val value: Int, val description: String) {
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,pycharm,visualstudio)](https://skillicons.dev)
 
+## Services, I am familiar with:
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase)](https://skillicons.dev)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1VMB1F)
